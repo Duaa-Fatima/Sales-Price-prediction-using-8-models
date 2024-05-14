@@ -54,9 +54,9 @@ Sure, here's the updated contributors section in the README file:
 
 This project was developed by the following team members:
 
-- **Mahum**: Mahum contributed to the training of four machine learning models (ARIMA, SARIMA, ETS, and LSTM) and was responsible for designing and implementing half of the front end of the web application.
+- **Mahum**: Mahum contributed to the training of four machine learning models and was responsible for designing and implementing half of the front end of the web application.
 
-- **Duaa**: Duaa implemented four machine learning models (SVR, Prophet, ANN, and the remaining parts of LSTM) and also contributed to designing and implementing half of the front end of the web application.
+- **Duaa**: Duaa implemented four machine learning models and also contributed to designing and implementing half of the front end of the web application.
 
 Both Mahum and Duaa collaborated on data preprocessing, model evaluation, and integration of the models into the Flask web application.
 
